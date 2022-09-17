@@ -1,9 +1,15 @@
+import Image from "next/image";
+
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
-                    Navbar
+                    <Image
+                        src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Azadi_Ka_Amrit_Mahotsav_%28English%29_logo.svg/240px-Azadi_Ka_Amrit_Mahotsav_%28English%29_logo.svg.png"
+                        height={60}
+                        width={120}
+                    />
                 </a>
                 <button
                     className="navbar-toggler"

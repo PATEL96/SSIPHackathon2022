@@ -3,7 +3,7 @@ import Navbar from "../Components/Navbar";
 function IndexPage() {
     return (
         <>
-            <div className="container-fluid bg-dark">
+            <div className="container-fluid bg-primary">
                 <Navbar />
             </div>
         </>
