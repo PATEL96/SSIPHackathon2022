@@ -7,7 +7,7 @@ const Navbar = () => {
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
                     <Image
-                        src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Azadi_Ka_Amrit_Mahotsav_%28English%29_logo.svg/240px-Azadi_Ka_Amrit_Mahotsav_%28English%29_logo.svg.png"
+                        src="https://amritmahotsav.mygov.in/assets/images/logo-new.svg"
                         height={60}
                         width={120}
                     />
