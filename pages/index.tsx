@@ -1,6 +1,6 @@
 import Navbar from "../Components/Navbar";
-import Department from "./Depatments/Department";
 import styles from "../styles/Home.module.css";
+import DepartmentList from "./Depatments/DepartmentList";
 
 function IndexPage() {
     return (
@@ -8,7 +8,7 @@ function IndexPage() {
             <div className="container-fluid bg-primary">
                 <Navbar />
             </div>
-            <Department />
+            <DepartmentList />
         </div>
     );
 }

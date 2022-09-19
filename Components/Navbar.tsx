@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
             <div className="container-fluid">
-                <a className="navbar-brand" href="#">
+                <a className="navbar-brand" href="/">
                     <Image
                         src="https://amritmahotsav.mygov.in/assets/images/logo-new.svg"
                         height={60}
@@ -37,14 +37,18 @@ const Navbar = () => {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">
-                                Features
-                            </a>
+                            <Link href="/About">
+                                <a className="nav-link" href="#">
+                                    About
+                                </a>
+                            </Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">
-                                Pricing
-                            </a>
+                            <Link href="#">
+                                <a className="nav-link" href="#">
+                                    Help!
+                                </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>

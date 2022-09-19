@@ -1,0 +1,21 @@
+.Main {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Card {
+    padding: 50px;
+}
+
+.Link {
+    cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    .Main {
+        display: flex;
+        flex-direction: column;
+    }
+}
