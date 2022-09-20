@@ -1,4 +1,4 @@
-import Navbar from "../Components/Navbar";
+import Navbar from "./Components/Navbar";
 import styles from "../styles/Home.module.css";
 import DepartmentList from "./Depatments/DepartmentList";
 

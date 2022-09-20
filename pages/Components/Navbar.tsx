@@ -1,4 +1,5 @@
 import Image from "next/image";
+import styles from "../../styles/Department.module.css";
 import Link from "next/link";
 
 const Navbar = () => {
@@ -26,25 +27,25 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <Link href="/">
+                            <Link href="/" className={styles.Link}>
                                 <a
                                     className="nav-link active"
                                     aria-current="page"
                                     href="/"
                                 >
-                                    Departments
+                                    Home
                                 </a>
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link href="/About">
+                            <Link href="/About" className={styles.Link}>
                                 <a className="nav-link" href="#">
                                     About
                                 </a>
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link href="#">
+                            <Link href="#" className={styles.Link}>
                                 <a className="nav-link" href="#">
                                     Help!
                                 </a>
