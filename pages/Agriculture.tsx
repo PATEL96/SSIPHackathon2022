@@ -152,7 +152,7 @@ export default function Agriculture() {
                                 aria-expanded="false"
                                 aria-controls="collapseFour"
                             >
-                                Accordion Item #4
+                                Digital Agricultural Division
                             </button>
                         </h2>
                         <div
@@ -162,19 +162,61 @@ export default function Agriculture() {
                             data-bs-parent="#accordionExample"
                         >
                             <div className="accordion-body">
-                                <strong>
-                                    This is the third item's accordion body.
-                                </strong>{" "}
-                                It is hidden by default, until the collapse
-                                plugin adds the appropriate classes that we use
-                                to style each element. These classes control the
-                                overall appearance, as well as the showing and
-                                hiding via CSS transitions. You can modify any
-                                of this with custom CSS or overriding our
-                                default variables. It's also worth noting that
-                                just about any HTML can go within the{" "}
-                                <code>.accordion-body</code>, though the
-                                transition does limit overflow.
+                                Ministry of Agriculture & Farmers Welfare aims
+                                to improve awareness, knowledge and efficiency
+                                of farmers. Keeping in view of the overall goal
+                                of increasing farmers’ incomes and following the
+                                recommendations of the Doubling of Farmers
+                                Income (DFI) committee, the Digital Agriculture
+                                Division has been created by reorienting the
+                                erstwhile Information Technology Division.
+                                <br></br> The National eGovernance Plan in
+                                Agriculture (NeGPA) has been modified to include
+                                new & emerging technologies in the field of
+                                Digital Agriculture. During the last financial
+                                year (2021-22 NeGPA), pilot projects have been
+                                sanctioned in 10 States (details given below) as
+                                per this modified NeGPA.<br></br> The Division
+                                is also engaged in creating a federated Farmers
+                                Database by compiling information of the farmers
+                                from various databases available with the
+                                Government and linking them with land records.
+                                The Division is in the process of entering into
+                                MoUs with various leading
+                                Agriculture/Technology/Other players in the
+                                Country for developing Proof of Concepts (PoCs)
+                                on the farmers database. The IDEA Concept has
+                                been finalised.<br></br> The Division also is
+                                in-charge of an attached office – Mahalanobis
+                                National Crop Forecast Centre (MNCFC). MNCFC was
+                                established, initially, to provide in-season
+                                crop forecasts and assessment of drought
+                                situation using state of the art techniques and
+                                methodologies developed by Indian Space Research
+                                Organization (ISRO). Over the years, its scope
+                                of work has expanded and it is now involved in
+                                various activities of the Department.
+                                <a href="http://www.ncfc.gov.in/">
+                                    (http://www.ncfc.gov.in/)
+                                </a>
+                                <br></br> Apart from the above, a comprehensive
+                                ICT strategy has been developed not only to
+                                reach out to farmers in an easy and better way
+                                but also for planning and monitoring of schemes
+                                so that policy decisions can be taken at a
+                                faster pace and farmers can be benefited
+                                quickly. To empower different sections of rural
+                                areas, different ICT strategies have been
+                                devised:<br></br> a). Those who have access to
+                                digital infrastructure can get the information
+                                through websites/web portals.
+                                <br></br> b). Those who have smart phones can
+                                access the same information through mobile apps.
+                                <br></br> c). Those who have basic phones, can
+                                get this information through SMS advisories sent
+                                by experts.<br></br> d). To get the personalized
+                                information; farmers can call at the toll free
+                                number of Kisan Call Centre – 18001801551.
                             </div>
                         </div>
                     </div>
