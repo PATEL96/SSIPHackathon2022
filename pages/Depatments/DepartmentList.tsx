@@ -19,6 +19,12 @@ export default function DepartmentList() {
                             <div className={styles.Link}>
                                 <div className="card-body">
                                     <p className="card-text">Agriculture</p>
+                                    <div className={styles.Small}>
+                                        All administrative, establishment and
+                                        service<br></br>
+                                        matters of the officers and staffs
+                                        posted in DAC....
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -113,6 +119,10 @@ export default function DepartmentList() {
                                     <p className="card-text">
                                         Science & Teccnology
                                     </p>
+                                    <div className={styles.Small}>
+                                        advownvwoinkosicnv cacacaasefarbv
+                                        ccacca....
+                                    </div>
                                 </div>
                             </div>
                         </div>

@@ -14,6 +14,11 @@
     cursor: pointer;
 }
 
+.Small {
+    font-size: small;
+    width: 98%;
+}
+
 .H1 {
     padding: 1.5rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

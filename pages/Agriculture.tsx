@@ -12,11 +12,11 @@ export default function Agriculture() {
                     <div className="accordion-item">
                         <h2 className="accordion-header" id="headingOne">
                             <button
-                                className="accordion-button collapsed"
+                                className="accordion-button"
                                 type="button"
                                 data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne"
-                                aria-expanded="false"
+                                aria-expanded="true"
                                 aria-controls="collapseOne"
                             >
                                 Administration Department
@@ -24,7 +24,7 @@ export default function Agriculture() {
                         </h2>
                         <div
                             id="collapseOne"
-                            className="accordion-collapse collapse"
+                            className="accordion-collapse collapse show"
                             aria-labelledby="headingOne"
                             data-bs-parent="#accordionExample"
                         >
@@ -113,32 +113,34 @@ export default function Agriculture() {
                                 which has surpassed the food grain production,
                                 that too from much less area (25.66 million Ha.
                                 for horticulture against 127.6 M. ha. for food
-                                grains). Productivity of horticulture crops is
-                                much higher compared to productivity of food
-                                grains (12.49 tones/ha against 2.23 tones/ha.).
-                                India has emerged as world leader in the
-                                production of a variety of fruits like mango,
-                                banana, guava, papaya, sapota, pomegranate, Lime
-                                & aonla and is the second largest producer of
-                                fruits and vegetables. Besides, India has
-                                maintained its dominance in the production of
-                                spices, coconut and cashewnut. Among the new
-                                crops, kiwi, gherkins, kinnow, date palm and oil
-                                palm have been successfully introduced for
-                                commercial cultivation in the country. Launch of
-                                National Horticulture Mission has spurred the
+                                grains).<br></br> Productivity of horticulture
+                                crops is much higher compared to productivity of
+                                food grains (12.49 tones/ha against 2.23
+                                tones/ha.). India has emerged as world leader in
+                                the production of a variety of fruits like
+                                mango, banana, guava, papaya, sapota,
+                                pomegranate, Lime & aonla and is the second
+                                largest producer of fruits and vegetables.
+                                <br></br>
+                                Besides, India has maintained its dominance in
+                                the production of spices, coconut and cashewnut.
+                                Among the new crops, kiwi, gherkins, kinnow,
+                                date palm and oil palm have been successfully
+                                introduced for commercial cultivation in the
+                                country. Launch of National Horticulture Mission
+                                has spurred the production and productivity of
+                                horticultural crops. <br></br>Productivity of
+                                horticultural crops has increased by about 38%
+                                between 2004-05 and 2019-20(2nd Advance
+                                Estimates). Increase in demand for horticultural
+                                produce due to greater health awareness, rising
+                                income, export demands and increasing population
+                                poses the challenge for further increasing the
                                 production and productivity of horticultural
-                                crops. Productivity of horticultural crops has
-                                increased by about 38% between 2004-05 and
-                                2019-20(2nd Advance Estimates). Increase in
-                                demand for horticultural produce due to greater
-                                health awareness, rising income, export demands
-                                and increasing population poses the challenge
-                                for further increasing the production and
-                                productivity of horticultural crops. The issue
-                                of climate change has thrown up greater
-                                uncertainties and risks, further imposing
-                                constraints on production systems.
+                                crops. <br></br>The issue of climate change has
+                                thrown up greater uncertainties and risks,
+                                further imposing constraints on production
+                                systems.
                             </div>
                         </div>
                     </div>
@@ -217,6 +219,151 @@ export default function Agriculture() {
                                 by experts.<br></br> d). To get the personalized
                                 information; farmers can call at the toll free
                                 number of Kisan Call Centre – 18001801551.
+                            </div>
+                        </div>
+                    </div>
+                    <div className="accordion-item">
+                        <h2 className="accordion-header" id="headingFive">
+                            <button
+                                className="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseFive"
+                                aria-expanded="false"
+                                aria-controls="collapseFive"
+                            >
+                                Administration Department
+                            </button>
+                        </h2>
+                        <div
+                            id="collapseFive"
+                            className="accordion-collapse collapse"
+                            aria-labelledby="headingFive"
+                            data-bs-parent="#accordionExample"
+                        >
+                            <div className="accordion-body">
+                                All administrative, establishment and service
+                                matters of the officers and staffs posted in DAC
+                                (Proper). Cadre management, promotions,
+                                appointment /transfer/ postings of CSS/CSSS/CSCS
+                                officials in the Department and its 5 other
+                                participating units.
+                            </div>
+                        </div>
+                    </div>
+                    <div className="accordion-item">
+                        <h2 className="accordion-header" id="headingSix">
+                            <button
+                                className="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseSix"
+                                aria-expanded="false"
+                                aria-controls="collapseSix"
+                            >
+                                Administration Department
+                            </button>
+                        </h2>
+                        <div
+                            id="collapseSix"
+                            className="accordion-collapse collapse"
+                            aria-labelledby="headingSix"
+                            data-bs-parent="#accordionExample"
+                        >
+                            <div className="accordion-body">
+                                All administrative, establishment and service
+                                matters of the officers and staffs posted in DAC
+                                (Proper). Cadre management, promotions,
+                                appointment /transfer/ postings of CSS/CSSS/CSCS
+                                officials in the Department and its 5 other
+                                participating units.
+                            </div>
+                        </div>
+                    </div>
+                    <div className="accordion-item">
+                        <h2 className="accordion-header" id="headingSeven">
+                            <button
+                                className="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseSeven"
+                                aria-expanded="false"
+                                aria-controls="collapseSeven"
+                            >
+                                Administration Department
+                            </button>
+                        </h2>
+                        <div
+                            id="collapseSeven"
+                            className="accordion-collapse collapse"
+                            aria-labelledby="headingSeven"
+                            data-bs-parent="#accordionExample"
+                        >
+                            <div className="accordion-body">
+                                All administrative, establishment and service
+                                matters of the officers and staffs posted in DAC
+                                (Proper). Cadre management, promotions,
+                                appointment /transfer/ postings of CSS/CSSS/CSCS
+                                officials in the Department and its 5 other
+                                participating units.
+                            </div>
+                        </div>
+                    </div>
+                    <div className="accordion-item">
+                        <h2 className="accordion-header" id="headingEight">
+                            <button
+                                className="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseEight"
+                                aria-expanded="false"
+                                aria-controls="collapseEight"
+                            >
+                                Administration Department
+                            </button>
+                        </h2>
+                        <div
+                            id="collapseEight"
+                            className="accordion-collapse collapse"
+                            aria-labelledby="headingEight"
+                            data-bs-parent="#accordionExample"
+                        >
+                            <div className="accordion-body">
+                                All administrative, establishment and service
+                                matters of the officers and staffs posted in DAC
+                                (Proper). Cadre management, promotions,
+                                appointment /transfer/ postings of CSS/CSSS/CSCS
+                                officials in the Department and its 5 other
+                                participating units.
+                            </div>
+                        </div>
+                    </div>
+                    <div className="accordion-item">
+                        <h2 className="accordion-header" id="headingNine">
+                            <button
+                                className="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseNine"
+                                aria-expanded="false"
+                                aria-controls="collapseNine"
+                            >
+                                Administration Department
+                            </button>
+                        </h2>
+                        <div
+                            id="collapseNine"
+                            className="accordion-collapse collapse"
+                            aria-labelledby="headingNine"
+                            data-bs-parent="#accordionExample"
+                        >
+                            <div className="accordion-body">
+                                All administrative, establishment and service
+                                matters of the officers and staffs posted in DAC
+                                (Proper). Cadre management, promotions,
+                                appointment /transfer/ postings of CSS/CSSS/CSCS
+                                officials in the Department and its 5 other
+                                participating units.
                             </div>
                         </div>
                     </div>
