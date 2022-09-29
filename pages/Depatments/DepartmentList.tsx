@@ -21,9 +21,8 @@ export default function DepartmentList() {
                                     <p className="card-text">Agriculture</p>
                                     <div className={styles.Small}>
                                         All administrative, establishment and
-                                        service<br></br>
-                                        matters of the officers and staffs
-                                        posted in DAC....
+                                        service matters<br></br> of the officers
+                                        and staffs posted in ....
                                     </div>
                                 </div>
                             </div>
@@ -31,7 +30,7 @@ export default function DepartmentList() {
                     </Link>
                 </div>
                 <div className={styles.Card}>
-                    <Link href="/Agriculture">
+                    <Link href="/Art&Culture">
                         <div className="card">
                             <Image
                                 src="https://media.istockphoto.com/photos/blurred-paintings-on-the-wall-picture-id936902194?b=1&k=20&m=936902194&s=170667a&w=0&h=T6uvJCSpHdJU80aICVKA8ojxxZkpb58ofigSB89GXP8="
@@ -43,6 +42,12 @@ export default function DepartmentList() {
                             <div className={styles.Link}>
                                 <div className="card-body">
                                     <p className="card-text">Art & Culture</p>
+                                    <div className={styles.Small}>
+                                        Culture plays an important role in the
+                                        development of<br></br> any nation. It
+                                        represents a set of shared attitudes,
+                                        values...
+                                    </div>
                                 </div>
                             </div>
                         </div>
