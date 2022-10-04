@@ -304,7 +304,7 @@ export default function Art_Culture() {
                                 aria-expanded="false"
                                 aria-controls="collapseFive"
                             >
-                                Administration Department
+                                Science
                             </button>
                         </h2>
                         <div
@@ -314,12 +314,27 @@ export default function Art_Culture() {
                             data-bs-parent="#accordionExample"
                         >
                             <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
+                                National Council of Science Museums (NCSM) is an
+                                autonomous society under the Ministry of
+                                Culture, Government of India set up with the
+                                objective to develop a culture of science,
+                                technology & innovation and to encourage
+                                scientific temper in the society by setting up
+                                of Science Cities/Science Centres/Innovation
+                                Hubs and organising S& T awareness programmes
+                                throughout the country. The organization is
+                                engaged in setting up of facilities such as
+                                Science Cities, Science Centres, Innovation
+                                Hubs, Mobile Science Exhibitions (MSE) etc. and
+                                Science Outreach programmes such as Science
+                                Seminar, Science Drama, Science & Engineering
+                                Fair, Science Film Festival, Workshops,
+                                Training, Lectures and Science demonstrations
+                                etc. for general public and students in
+                                particular.<br></br>
+                                <a href="http://ncsm.gov.in" target="_blank">
+                                    Read More...
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -333,7 +348,7 @@ export default function Art_Culture() {
                                 aria-expanded="false"
                                 aria-controls="collapseSix"
                             >
-                                Administration Department
+                                Built Heritage
                             </button>
                         </h2>
                         <div
@@ -343,157 +358,31 @@ export default function Art_Culture() {
                             data-bs-parent="#accordionExample"
                         >
                             <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
-                            </div>
-                        </div>
-                    </div>
-                    <div className="accordion-item">
-                        <h2 className="accordion-header" id="headingSeven">
-                            <button
-                                className="accordion-button collapsed"
-                                type="button"
-                                data-bs-toggle="collapse"
-                                data-bs-target="#collapseSeven"
-                                aria-expanded="false"
-                                aria-controls="collapseSeven"
-                            >
-                                Administration Department
-                            </button>
-                        </h2>
-                        <div
-                            id="collapseSeven"
-                            className="accordion-collapse collapse"
-                            aria-labelledby="headingSeven"
-                            data-bs-parent="#accordionExample"
-                        >
-                            <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
-                            </div>
-                        </div>
-                    </div>
-                    <div className="accordion-item">
-                        <h2 className="accordion-header" id="headingEight">
-                            <button
-                                className="accordion-button collapsed"
-                                type="button"
-                                data-bs-toggle="collapse"
-                                data-bs-target="#collapseEight"
-                                aria-expanded="false"
-                                aria-controls="collapseEight"
-                            >
-                                Administration Department
-                            </button>
-                        </h2>
-                        <div
-                            id="collapseEight"
-                            className="accordion-collapse collapse"
-                            aria-labelledby="headingEight"
-                            data-bs-parent="#accordionExample"
-                        >
-                            <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
-                            </div>
-                        </div>
-                    </div>
-                    <div className="accordion-item">
-                        <h2 className="accordion-header" id="headingNine">
-                            <button
-                                className="accordion-button collapsed"
-                                type="button"
-                                data-bs-toggle="collapse"
-                                data-bs-target="#collapseNine"
-                                aria-expanded="false"
-                                aria-controls="collapseNine"
-                            >
-                                Administration Department
-                            </button>
-                        </h2>
-                        <div
-                            id="collapseNine"
-                            className="accordion-collapse collapse"
-                            aria-labelledby="headingNine"
-                            data-bs-parent="#accordionExample"
-                        >
-                            <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
-                            </div>
-                        </div>
-                    </div>
-                    <div className="accordion-item">
-                        <h2 className="accordion-header" id="headingTen">
-                            <button
-                                className="accordion-button collapsed"
-                                type="button"
-                                data-bs-toggle="collapse"
-                                data-bs-target="#collapseTen"
-                                aria-expanded="false"
-                                aria-controls="collapseTen"
-                            >
-                                Administration Department
-                            </button>
-                        </h2>
-                        <div
-                            id="collapseTen"
-                            className="accordion-collapse collapse"
-                            aria-labelledby="headingTen"
-                            data-bs-parent="#accordionExample"
-                        >
-                            <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
-                            </div>
-                        </div>
-                    </div>
-                    <div className="accordion-item">
-                        <h2 className="accordion-header" id="headingEleven">
-                            <button
-                                className="accordion-button collapsed"
-                                type="button"
-                                data-bs-toggle="collapse"
-                                data-bs-target="#collapseEleven"
-                                aria-expanded="false"
-                                aria-controls="collapseEleven"
-                            >
-                                Administration Department
-                            </button>
-                        </h2>
-                        <div
-                            id="collapseEleven"
-                            className="accordion-collapse collapse"
-                            aria-labelledby="headingEleven"
-                            data-bs-parent="#accordionExample"
-                        >
-                            <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
+                                The Ancient Monuments and Archaeological Sites
+                                and Remains Act, 1958 defines an ‘ Ancient
+                                Monument ’ as follows:-<br></br> Ancient
+                                Monument means any structure, erection or
+                                monument, or any tumulus or place of interment,
+                                or any cave, rock-sculpture, inscription or
+                                monolith which is of historical, archaeological
+                                or artistic interest and which has been in
+                                existence for not less than 100 years and
+                                includes—<br></br> 1. Remains of an ancient
+                                monument,<br></br> 2. Site of an ancient
+                                monument,<br></br>
+                                3. Such portion of land adjoining the site of an
+                                ancient monument as may be required for fencing
+                                or covering in or otherwise preserving such
+                                monument,<br></br> 4. The means of access to,
+                                and convenient inspection of, an ancient
+                                monument;
+                                <br></br>
+                                <a
+                                    href="https://www.indiaculture.nic.in/built-heritage"
+                                    target="_blank"
+                                >
+                                    Read More...
+                                </a>
                             </div>
                         </div>
                     </div>

@@ -232,7 +232,7 @@ export default function Agriculture() {
                                 aria-expanded="false"
                                 aria-controls="collapseFive"
                             >
-                                Administration Department
+                                Economin Administration
                             </button>
                         </h2>
                         <div
@@ -242,12 +242,35 @@ export default function Agriculture() {
                             data-bs-parent="#accordionExample"
                         >
                             <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
+                                Economic Administration (EA) Division in the D/o
+                                Agriculture & Farmers Welfare deals with all
+                                administrative & financial matters relating to
+                                three attached offices i.e. Directorate of
+                                Economics & Statistics (DES), Commission for
+                                Agricultural Costs & Prices (CACP) and the MNCFC
+                                (for FASAL Scheme).<br></br> Directorate of
+                                Economics and Statistics (DES), an attached
+                                office of the Department of Agriculture and
+                                Farmers Welfare, is headed by Senior Economic &
+                                Statistical Adviser. DES collects, disseminates
+                                and publishes statistics on diverse facets of
+                                agriculture and related sectors required for
+                                policy formulation by the Government.<br></br>{" "}
+                                Major Divisions of DES are (i) Cost of
+                                Cultivation (ii) Land Use Statistics / Special
+                                Data dissemination Standards (iii) Commercial
+                                Crops (iv) Food Export (v) Coordination (vi)
+                                Prices & Marketing (vii) Crops Forecasting
+                                Coordination Centre (viii) Agro Economic
+                                Research (ix) Agricultural Statistics.<br></br>{" "}
+                                Over the years, a number of initiatives have
+                                been taken by DES to bring about improvement in
+                                the coverage, quality and timely availability of
+                                agricultural statistics for the benefit of
+                                farmers.<br></br>
+                                <a href="http://desagri.gov.in" target="_blank">
+                                    Read More...
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -261,7 +284,7 @@ export default function Agriculture() {
                                 aria-expanded="false"
                                 aria-controls="collapseSix"
                             >
-                                Administration Department
+                                Plant Protection
                             </button>
                         </h2>
                         <div
@@ -271,12 +294,51 @@ export default function Agriculture() {
                             data-bs-parent="#accordionExample"
                         >
                             <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
+                                Plant Protection continues to play a significant
+                                role in achieving targets of crops
+                                production.Plant Protection The major thrust
+                                areas of plant protection are promotion of
+                                Integrated Pest management, ensuring
+                                availability of safe and quality pesticides for
+                                sustaining crop production from the ravages of
+                                pests and diseases, streamlining the quarantine
+                                measures for accelerating the introduction of
+                                new high yielding crop varieties, besides
+                                eliminating the chances of entry of exotic pests
+                                and for human resource development including
+                                empowerment of women in plant protection skills.
+                                <br></br>
+                                <a
+                                    href="https://agricoop.gov.in/sites/default/files/Ready-reckoner-PP-I.pdf"
+                                    target="_blank"
+                                >
+                                    Ready Reckoner of Plant Protection – I (IPM
+                                    Unit)
+                                </a>
+                                <br></br>
+                                <a
+                                    href="https://agricoop.gov.in/sites/default/files/Ready_Reckoner.pdf"
+                                    target="_blank"
+                                >
+                                    Ready Reckoner of Plant Protection – II
+                                </a>
+                                <br></br>
+                                <a
+                                    href="https://agricoop.gov.in/sites/default/files/ready_reckoner_pp_new.pdf"
+                                    target="_blank"
+                                >
+                                    Ready Reckoner of Plant Protection Division,
+                                    Plant Protection - I Section (Pesticide
+                                    Unit)
+                                </a>
+                                <br></br>
+                                <a
+                                    href="https://agricoop.gov.in/sites/default/files/ready-recokner-ppest_new.pdf"
+                                    target="_blank"
+                                >
+                                    Ready Reckoner of Plant Protection Division,
+                                    Plant Protection, Establishment
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -290,7 +352,7 @@ export default function Agriculture() {
                                 aria-expanded="false"
                                 aria-controls="collapseSeven"
                             >
-                                Administration Department
+                                Drought Management
                             </button>
                         </h2>
                         <div
@@ -300,70 +362,58 @@ export default function Agriculture() {
                             data-bs-parent="#accordionExample"
                         >
                             <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
-                            </div>
-                        </div>
-                    </div>
-                    <div className="accordion-item">
-                        <h2 className="accordion-header" id="headingEight">
-                            <button
-                                className="accordion-button collapsed"
-                                type="button"
-                                data-bs-toggle="collapse"
-                                data-bs-target="#collapseEight"
-                                aria-expanded="false"
-                                aria-controls="collapseEight"
-                            >
-                                Administration Department
-                            </button>
-                        </h2>
-                        <div
-                            id="collapseEight"
-                            className="accordion-collapse collapse"
-                            aria-labelledby="headingEight"
-                            data-bs-parent="#accordionExample"
-                        >
-                            <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
-                            </div>
-                        </div>
-                    </div>
-                    <div className="accordion-item">
-                        <h2 className="accordion-header" id="headingNine">
-                            <button
-                                className="accordion-button collapsed"
-                                type="button"
-                                data-bs-toggle="collapse"
-                                data-bs-target="#collapseNine"
-                                aria-expanded="false"
-                                aria-controls="collapseNine"
-                            >
-                                Administration Department
-                            </button>
-                        </h2>
-                        <div
-                            id="collapseNine"
-                            className="accordion-collapse collapse"
-                            aria-labelledby="headingNine"
-                            data-bs-parent="#accordionExample"
-                        >
-                            <div className="accordion-body">
-                                All administrative, establishment and service
-                                matters of the officers and staffs posted in DAC
-                                (Proper). Cadre management, promotions,
-                                appointment /transfer/ postings of CSS/CSSS/CSCS
-                                officials in the Department and its 5 other
-                                participating units.
+                                Department of Agriculture and Farmers Welfare
+                                (DA&FW) is mandated to coordinate relief
+                                measures necessitated by drought, hailstorm,
+                                pest attack and cold wave/frost. Spatial
+                                distribution and quantum of rainfall during
+                                South-West Monsoon (June-September) mainly
+                                determines the incidence of drought in the
+                                country, as South-West Monsoon accounts for more
+                                than 70% of annual rainfall. DA&FW monitors
+                                progress of South-West Monsoon in the country,
+                                in close coordination with India Meteorological
+                                Department (IMD) and keeps a watch over
+                                deficient/scarcity rainfall conditions.<br></br>{" "}
+                                The Department also reviews and updates the
+                                Crisis Management Plan (CMP) for drought every
+                                year. The Plan defines roles and
+                                responsibilities of various agencies involved in
+                                crisis management during drought.<br></br> The
+                                State Governments initiate necessary relief
+                                measures in the wake of natural calamities from
+                                State Disaster Response Fund (SDRF), which is
+                                readily available with them. Contribution to
+                                SDRF is made by Central and State Governments in
+                                the ratio of 3:1 for 18 general category States
+                                (Andhra Pradesh, Bihar, Chhattisgarh, Goa,
+                                Gujarat, Haryana, Jharkhand, Karnataka, Kerala,
+                                Madhya Pradesh, Maharashtra, Odisha, Punjab,
+                                Rajasthan, Tamil Nadu, Telangana, Uttar Pradesh
+                                & West Bengal) and in the ratio of 9:1 for 10
+                                special category States (8 North Eastern States,
+                                namely, Arunachal Pradesh, Assam, Manipur,
+                                Meghalaya, Mizoram, Nagaland, Tripura & Sikkim;
+                                and 2 Hilly States, namely, Himachal Pradesh &
+                                Uttarakhand). Government of India provides
+                                additional financial assistance from National
+                                Disaster Response Fund (NDRF), over and above
+                                SDRF, for natural calamities of severe nature as
+                                per established procedure and extant norms.
+                                Allocation under SDRF is made on the basis of
+                                recommendations of the Finance Commission.
+                                <br></br>
+                                Financial Assistance approved to the States from
+                                NDRF for natural calamities, (drought,
+                                hailstorm, pest attack & cold wave/frost) during
+                                the period from 2010-11 to 2020-21, including
+                                drought, is at{" "}
+                                <a
+                                    href="https://agricoop.nic.in/sites/default/files/drought_management.pdf"
+                                    target="_blank"
+                                >
+                                    Annexure.
+                                </a>
                             </div>
                         </div>
                     </div>

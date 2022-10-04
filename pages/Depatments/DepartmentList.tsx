@@ -124,10 +124,6 @@ export default function DepartmentList() {
                                     <p className="card-text">
                                         Science & Teccnology
                                     </p>
-                                    <div className={styles.Small}>
-                                        advownvwoinkosicnv cacacaasefarbv
-                                        ccacca....
-                                    </div>
                                 </div>
                             </div>
                         </div>
