@@ -54,7 +54,7 @@ export default function DepartmentList() {
                     </Link>
                 </div>
                 <div className={styles.Card}>
-                    <Link href="/Agriculture">
+                    <Link href="/Communication">
                         <div className="card">
                             <Image
                                 src="https://cdn.pixabay.com/photo/2018/10/19/10/43/social-media-3758364__340.jpg"
@@ -68,6 +68,11 @@ export default function DepartmentList() {
                                     <p className="card-text">
                                         Communication & I.T.
                                     </p>
+                                    <div className={styles.Small}>
+                                        Electronics and Information Technology
+                                        is one of the<br></br> fastest growing
+                                        segments of the Indian Industry...
+                                    </div>
                                 </div>
                             </div>
                         </div>
