@@ -1,6 +1,7 @@
 import Navbar from "./Components/Navbar";
 import styles from "../styles/Home.module.css";
 import DepartmentList from "./Depatments/DepartmentList";
+import Footer from "./Components/Footer";
 
 function IndexPage() {
     return (
@@ -9,6 +10,7 @@ function IndexPage() {
                 <Navbar />
             </div>
             <DepartmentList />
+            <Footer />
         </div>
     );
 }

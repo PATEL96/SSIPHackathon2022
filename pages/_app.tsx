@@ -7,6 +7,8 @@ function MyApp({ Component, pageProps }: AppProps) {
     useEffect(() => {
         {
             import("bootstrap/dist/js/bootstrap");
+
+
         }
     }, []);
 
