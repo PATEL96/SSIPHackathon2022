@@ -1,7 +1,6 @@
 import Image from "next/image";
 import styles from "../../styles/Department.module.css";
 import Link from "next/link";
-
 const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">

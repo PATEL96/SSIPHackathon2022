@@ -1,6 +1,7 @@
 import Image from "next/image";
 import styles from "../../styles/Department.module.css";
 import Link from "next/link";
+import e_logo from "/public/e_logo.png"
 const Footer = () => {
   return (
     <>
@@ -12,22 +13,22 @@ const Footer = () => {
     </div>
 
     <div >
-      <a href="" className="me-4 text-reset" style={{color: "white"}} >
+      <a href="#" className="me-4 text-reset">
         <i className="fab fa-facebook-f" ></i>
       </a>
-      <a href="" className="me-4 text-reset" style={{color: "white"}}>
+      <a href="" className="me-4 text-reset" >
         <i className="fab fa-twitter"></i>
       </a>
-      <a href="" className="me-4 text-reset" style={{color: "white"}}>
+      <a href="" className="me-4 text-reset">
         <i className="fab fa-google"></i>
       </a>
-      <a href="" className="me-4 text-reset" style={{color: "white"}}>
+      <a href="" className="me-4 text-reset" >
         <i className="fab fa-instagram"></i>
       </a>
-      <a href="" className="me-4 text-reset" style={{color: "white"}}>
+      <a href="" className="me-4 text-reset" >
         <i className="fab fa-linkedin"></i>
       </a>
-      <a href="" className="me-4 text-reset" style={{color: "white"}}>
+      <a href="" className="me-4 text-reset" >
         <i className="fab fa-github"></i>
       </a>
     </div>
@@ -38,29 +39,36 @@ const Footer = () => {
       <div className="row mt-3">
         <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4" style={{color: "white"}}>
           <h6 className="text-uppercase fw-bold mb-4">
-            <i className="fas fa-gem me-3"></i>Company name
+          <Image
+                        src={e_logo}
+                        height={180}
+                        width={120}
+                    />
+            {/* <i className="fas fa-gem me-3"></i>Why US ? */}
           </h6>
           <p>
-            Here you can use rows and columns to organize your footer content. Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit.
+          
           </p>
         </div>
 
         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4" style={{color: "white"}}>
           <h6 className="text-uppercase fw-bold mb-4">
-            Products
+            Some Departments
           </h6>
           <p>
-            <a href="#!" className="text-reset">Angular</a>
+            <a href="/Agriculture" className="text-reset">Agriculture</a>
           </p>
           <p>
-            <a href="#!" className="text-reset">React</a>
+            <a href="/Art&Culture" className="text-reset">Law and Justice</a>
           </p>
           <p>
-            <a href="#!" className="text-reset">Vue</a>
+            <a href="/Communication" className="text-reset">Communication & I.T.</a>
           </p>
           <p>
-            <a href="#!" className="text-reset">Laravel</a>
+            <a href="/Agriculture" className="text-reset">Education</a>
+          </p>
+          <p>
+            <a href="/Agriculture" className="text-reset">Science & Technology</a>
           </p>
         </div>
         
@@ -69,37 +77,40 @@ const Footer = () => {
             Useful links
           </h6>
           <p>
-            <a href="#!" className="text-reset">Pricing</a>
+            <a href="/" className="text-reset">Home</a>
           </p>
           <p>
-            <a href="#!" className="text-reset">Settings</a>
+            <a href="/About" className="text-reset">About</a>
           </p>
           <p>
-            <a href="#!" className="text-reset">Orders</a>
+          <Link href="/help" className={styles.Link}>
+            <a href="/help" className="text-reset">Help</a>
+            </Link>
           </p>
-          <p>
-            <a href="#!" className="text-reset">Help</a>
-          </p>
+          
         </div>
 
         <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4" style={{color: "white"}}>
           <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i className="fas fa-home me-3"></i> New York, NY 10012, US</p>
           <p>
-            <i className="fas fa-envelope me-3"></i>
-            info@example.com
+          <a>Toll Free : 1800 111 111</a>
           </p>
-          <p><i className="fas fa-phone me-3"></i> + 01 234 567 88</p>
-          <p><i className="fas fa-print me-3"></i> + 01 234 567 89</p>
+          <p>
+          <a>E-mail : help@guj.gov.in</a>
+          </p>
+          <p>
+          <a style={{color: "white"}}>See more , </a><a href="/contact" style={{color: "white"}}> click here</a>
+          </p>
+          
         </div>
       </div>
     </div>
   </section>
 
-  <div className="text-center p-4" style={{backgroundColor: "rgba(0, 0, 0, 0.05", color: "white"}}>
+  <div className="text-center p-4" style={{ color: "white"}}>
     
   © 2022 - All Rights Reserved.
-    <a className="text-reset fw-bold" href="https://mdbootstrap.com/"> Design by Gov. Guj</a>
+    <a className="text-reset fw-bold" style={{color: "white"}} href="#"> Design by Gov. Guj</a>
   </div>
     </footer>
   </>
