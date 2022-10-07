@@ -1,5 +1,6 @@
-import Navbar from "./Components/Navbar";
-import styles from "../styles/Home.module.css";
+
+import Navbar from './Components/Navbar'
+import styles from '../styles/Home.module.css'
 
 export default function About() {
     return (
@@ -7,6 +8,7 @@ export default function About() {
             <div className="container-fluid bg-primary">
                 <Navbar />
             </div>
+            This is About Page which has information related to this website
         </div>
     );
 }
