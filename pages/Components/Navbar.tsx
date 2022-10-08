@@ -58,9 +58,9 @@ const Navbar = () => {
                 </div>
             </div>
             <div>
-           <script async src="https://cse.google.com/cse.js?cx=503465bdf9ab64f35">
-</script>
-<div className="gcse-searchbox"></div>
+            <script async src="https://cse.google.com/cse.js?cx=503465bdf9ab64f35">
+            </script>
+            <div className="gcse-searchbox"></div>
             </div>
         </nav>
         
