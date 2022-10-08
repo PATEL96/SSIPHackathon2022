@@ -66,14 +66,15 @@ export default function Communication() {
                     <div className="accordion-item">
                         <h2 className="accordion-header" id="headingTwo">
                             <button
-                                className="accordion-button"
+                                className="accordion-button collapsed"
                                 type="button"
                                 data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo"
-                                aria-expanded="true"
+                                aria-expanded="false"
                                 aria-controls="collapseTwo"
                             >
-                                Administration Department
+                                Modified Programme for Semiconductors and
+                                Display Fab Ecosystem
                             </button>
                         </h2>
                         <div
@@ -118,6 +119,75 @@ export default function Communication() {
                                 (including MEMS) Fabs / Discrete Semiconductor
                                 Fabs, Semiconductor Packaging (ATMP / OSAT) and
                                 Semiconductor Design.
+                            </div>
+                        </div>
+                    </div>
+                    <div className="accordion-item">
+                        <h2 className="accordion-header" id="headingThree">
+                            <button
+                                className="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseThree"
+                                aria-expanded="false"
+                                aria-controls="collapseThree"
+                            >
+                                Budget Announcement
+                            </button>
+                        </h2>
+                        <div
+                            id="collapseThree"
+                            className="accordion-collapse collapse"
+                            aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample"
+                        >
+                            <div className="accordion-body">
+                                <a
+                                    href="https://www.meity.gov.in/writereaddata/files/Summary_Union_Budget%202020-21_sector.pdf"
+                                    target="_blank"
+                                    className={styles.pdf}
+                                >
+                                    Summary of Budget 2020-21 for Electronics
+                                    Industry - 136.7 KB
+                                </a>
+                                <br></br>
+                                Notifications:- <br></br>
+                                <a
+                                    href="https://www.meity.gov.in/writereaddata/files/Notification%20No%201%20of%202020-Customs%20dt%20020220.pdf"
+                                    target="_blank"
+                                    className={styles.pdf}
+                                >
+                                    Notification No 1 of 2020-Customs dated
+                                    01/2020 - 142.42 KB
+                                </a>
+                                <br></br>
+                                <a
+                                    href="https://www.meity.gov.in/writereaddata/files/Notification%20No%202%20of%202020-Customs%20dt%20020220.pdf"
+                                    target="_blank"
+                                    className={styles.pdf}
+                                >
+                                    Notification No 2 of 2020-Customs dated
+                                    01/2020 - 110.62 KB
+                                </a>
+                                <br></br>
+                                <a
+                                    href="https://www.meity.gov.in/writereaddata/files/Notification%20No%205%20of%202020-Customs%20dt%20020220.pdf"
+                                    target="_blank"
+                                    className={styles.pdf}
+                                >
+                                    Notification No 5 of 2020-Customs dated
+                                    05/2020 - 68.89 KB
+                                </a>
+                                <br></br>
+                                <a
+                                    href="https://www.meity.gov.in/writereaddata/files/Notification%20No%208%20of%202020-Customs%20dt%20020220.pdf"
+                                    target="_blank"
+                                    className={styles.pdf}
+                                >
+                                    Notification No 8 of 2020-Customs dated
+                                    08/2020 - 71 KB
+                                </a>
+                                <br></br>
                             </div>
                         </div>
                     </div>

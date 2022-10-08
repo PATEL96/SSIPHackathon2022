@@ -4,6 +4,10 @@
     padding-bottom: 50px;
 }
 
+.pdf {
+    text-decoration: none;
+}
+
 @media (max-width: 600px) {
     .container {
         margin: 0 1.5rem;

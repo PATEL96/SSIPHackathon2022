@@ -311,6 +311,7 @@ export default function Agriculture() {
                                 <a
                                     href="https://agricoop.gov.in/sites/default/files/Ready-reckoner-PP-I.pdf"
                                     target="_blank"
+                                    className={styles.pdf}
                                 >
                                     Ready Reckoner of Plant Protection – I (IPM
                                     Unit)
@@ -319,6 +320,7 @@ export default function Agriculture() {
                                 <a
                                     href="https://agricoop.gov.in/sites/default/files/Ready_Reckoner.pdf"
                                     target="_blank"
+                                    className={styles.pdf}
                                 >
                                     Ready Reckoner of Plant Protection – II
                                 </a>
@@ -326,6 +328,7 @@ export default function Agriculture() {
                                 <a
                                     href="https://agricoop.gov.in/sites/default/files/ready_reckoner_pp_new.pdf"
                                     target="_blank"
+                                    className={styles.pdf}
                                 >
                                     Ready Reckoner of Plant Protection Division,
                                     Plant Protection - I Section (Pesticide
@@ -335,6 +338,7 @@ export default function Agriculture() {
                                 <a
                                     href="https://agricoop.gov.in/sites/default/files/ready-recokner-ppest_new.pdf"
                                     target="_blank"
+                                    className={styles.pdf}
                                 >
                                     Ready Reckoner of Plant Protection Division,
                                     Plant Protection, Establishment
@@ -420,5 +424,5 @@ export default function Agriculture() {
                 </div>
             </div>
         </div>
-    );
+    ); //AIzaSyA-WAnj2qPn5FaRIDBj8njHfPlgxR_yFso
 }

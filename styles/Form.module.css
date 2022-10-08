@@ -1,0 +1,35 @@
+.Form {
+    margin-left: 300px;
+    margin-right: 300px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.listing {
+    display: flex;
+    flex-direction: row;
+}
+
+.Name {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Input {
+    color: black;
+    background: none;
+    border: 1px solid black;
+    border-radius: 2.5px;
+}
+
+.Text {
+    color: black;
+    background: none;
+    border: 1px solid black;
+    border-radius: 2.5px;
+    height: 250px;
+    width: 400px;
+}

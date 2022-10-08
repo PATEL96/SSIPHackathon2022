@@ -200,6 +200,7 @@ export default function Art_Culture() {
                                 <a
                                     href="https://sangeetnatak.gov.in/sections/music"
                                     target="_blank"
+                                    className={styles.pdf}
                                 >
                                     Read more...
                                 </a>
